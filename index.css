@@ -1,0 +1,59 @@
+.navbar{ 
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 30px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: #f7931a;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+#small-quantum {
+    height: 250px;
+    filter: drop-shadow(20px 20px 20px black);
+}
+
+.quantum-section {
+    padding: 20px 50px; 
+}
+
+#quantum {
+    color: black;
+    font-size: 100px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('../images/JPEG\ image-4107-8354-AE-0.jpeg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+a.blue {
+    color: blue;
+}
